@@ -28,7 +28,7 @@ The web application will provide a form, which asks the user for a car's make, m
 - Navigate to the parent directory of your preference.
 
 - Clone the application on your computer by entering: 
-```git clone https://github.com/wowgr8/PierresBakery.Solution```
+```git clone https://github.com/wowgr8/car-dealership```
 in the terminal
 - Run the command ```dotnet build```.
 - Run the command ```dotnet run```.
