@@ -6,6 +6,8 @@
 
 #### _Car Dealership is an MVC web application that allows users to add new cars through a nicely-formatted web interface._
 
+![](https://github.com/wowgr8/gifs-for-readmes/blob/main/car-dealership/car-dealership.gif)
+
 ## Technologies Used
 
 - C#
